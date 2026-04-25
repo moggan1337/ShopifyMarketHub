@@ -13,15 +13,7 @@
 
 ## About
 
-ShopifyMarketHub transforms your Shopify store into a full-featured multi-vendor marketplace. Vendors get their own dashboards to manage products, track sales, and receive automated payouts, while you maintain control over the platform with powerful admin tools.
-
-**Key Benefits:**
-- 🏪 **Vendor Self-Service** — Vendors manage their own stores
-- 💰 **Automated Payouts** — Stripe Connect integration for instant payouts
-- 💼 **Flexible Commissions** — Tiered, category-based commission rules
-- ⚖️ **Dispute Resolution** — Built-in ticket and mediation system
-- 📊 **Full Analytics** — Platform-wide and per-vendor metrics
-- 🔗 **Shopify Native** — Leverages Shopify's commerce infrastructure
+ShopifyMarketHub transforms your Shopify store into a full-featured multi-vendor marketplace. Vendors get their own dashboards to manage products, track sales, and receive automated payouts via Stripe Connect, while you maintain control over the platform with powerful admin tools and flexible commission rules. Ideal for Shopify merchants looking to launch a multi-vendor marketplace without building from scratch.
 
 ## ✨ Features
 
